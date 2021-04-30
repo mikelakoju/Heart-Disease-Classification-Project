@@ -9,10 +9,13 @@ This project containts End-to-End Heart Disease Classification Project.
       * GridSearchCV 
 * I also use 5-fold cross-validation. 
 * Evaluation is performed using: 
-      >* Accuracy, 
-      >* ROC curve & AUC score, 
-      >* Confusion matrix, 
-      >* Classification report, 
-      >* Precision, 
-      >* Recall, 
-      >* F1-score.
+ <ol>
+  <li>Accuracy</li>
+  <li>ROC curve & AUC score</li>
+  <li>Confusion matrix</li>
+  <li>Classification report</li>
+  <li>Precision</li>
+  <li>Recall</li>
+  <li>F1-score</li>
+</ol> 
+   
