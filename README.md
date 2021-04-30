@@ -12,13 +12,13 @@ This project containts End-to-End Heart Disease Classification Project.
       
 * I also use 5-fold cross-validation. 
 * Evaluation is performed using: 
- <ol>
-  <li>Accuracy</li>
-  <li>ROC curve & AUC score</li>
-  <li>Confusion matrix</li>
-  <li>Classification report</li>
-  <li>Precision</li>
-  <li>Recall</li>
-  <li>F1-score</li>
-</ol> 
+          <ul>
+           <li>Accuracy</li>
+           <li>ROC curve & AUC score</li>
+           <li>Confusion matrix</li>
+           <li>Classification report</li>
+           <li>Precision</li>
+           <li>Recall</li>
+           <li>F1-score</li>
+         </ul> 
    
