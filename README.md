@@ -1,5 +1,5 @@
 # Heart Disease Classification-Project
- 
+### Author: Dr. Mike Lakoju 
 This project containts End-to-End Heart Disease Classification Project. 
 * In this project, I first perform some exploratory data analysis on the dataset to identify patterns by comparing various features within the data. To establish a baseline model, 
 * I then compare/ build three different machine learning models (Logistic Regression, K-nearest Neighbours classifier and Random Forest Classifier) from Scikit-Learn. 
@@ -9,10 +9,10 @@ This project containts End-to-End Heart Disease Classification Project.
       * GridSearchCV 
 * I also use 5-fold cross-validation. 
 * Evaluation is performed using: 
-      * Accuracy, 
-      * ROC curve & AUC score, 
-      * Confusion matrix, 
-      * Classification report, 
-      * Precision, 
-      * Recall, 
-      * F1-score.
+      >* Accuracy, 
+      >* ROC curve & AUC score, 
+      >* Confusion matrix, 
+      >* Classification report, 
+      >* Precision, 
+      >* Recall, 
+      >* F1-score.
